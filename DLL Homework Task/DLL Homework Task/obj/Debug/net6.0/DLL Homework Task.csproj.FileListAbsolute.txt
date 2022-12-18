@@ -1,0 +1,18 @@
+C:\Users\javidai\Desktop\DLL Homework Task\DLL Homework Task\DLL Homework Task\bin\Debug\net6.0\DLL Homework Task.exe
+C:\Users\javidai\Desktop\DLL Homework Task\DLL Homework Task\DLL Homework Task\bin\Debug\net6.0\DLL Homework Task.deps.json
+C:\Users\javidai\Desktop\DLL Homework Task\DLL Homework Task\DLL Homework Task\bin\Debug\net6.0\DLL Homework Task.runtimeconfig.json
+C:\Users\javidai\Desktop\DLL Homework Task\DLL Homework Task\DLL Homework Task\bin\Debug\net6.0\DLL Homework Task.dll
+C:\Users\javidai\Desktop\DLL Homework Task\DLL Homework Task\DLL Homework Task\bin\Debug\net6.0\DLL Homework Task.pdb
+C:\Users\javidai\Desktop\DLL Homework Task\DLL Homework Task\DLL Homework Task\obj\Debug\net6.0\DLL Homework Task.csproj.AssemblyReference.cache
+C:\Users\javidai\Desktop\DLL Homework Task\DLL Homework Task\DLL Homework Task\obj\Debug\net6.0\DLL Homework Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javidai\Desktop\DLL Homework Task\DLL Homework Task\DLL Homework Task\obj\Debug\net6.0\DLL Homework Task.AssemblyInfoInputs.cache
+C:\Users\javidai\Desktop\DLL Homework Task\DLL Homework Task\DLL Homework Task\obj\Debug\net6.0\DLL Homework Task.AssemblyInfo.cs
+C:\Users\javidai\Desktop\DLL Homework Task\DLL Homework Task\DLL Homework Task\obj\Debug\net6.0\DLL Homework Task.csproj.CoreCompileInputs.cache
+C:\Users\javidai\Desktop\DLL Homework Task\DLL Homework Task\DLL Homework Task\obj\Debug\net6.0\DLL Homework Task.dll
+C:\Users\javidai\Desktop\DLL Homework Task\DLL Homework Task\DLL Homework Task\obj\Debug\net6.0\refint\DLL Homework Task.dll
+C:\Users\javidai\Desktop\DLL Homework Task\DLL Homework Task\DLL Homework Task\obj\Debug\net6.0\DLL Homework Task.pdb
+C:\Users\javidai\Desktop\DLL Homework Task\DLL Homework Task\DLL Homework Task\obj\Debug\net6.0\DLL Homework Task.genruntimeconfig.cache
+C:\Users\javidai\Desktop\DLL Homework Task\DLL Homework Task\DLL Homework Task\obj\Debug\net6.0\ref\DLL Homework Task.dll
+C:\Users\javidai\Desktop\DLL Homework Task\DLL Homework Task\DLL Homework Task\bin\Debug\net6.0\ServiceLayer.dll
+C:\Users\javidai\Desktop\DLL Homework Task\DLL Homework Task\DLL Homework Task\bin\Debug\net6.0\ServiceLayer.pdb
+C:\Users\javidai\Desktop\DLL Homework Task\DLL Homework Task\DLL Homework Task\obj\Debug\net6.0\DLL Homework Task.csproj.CopyComplete
